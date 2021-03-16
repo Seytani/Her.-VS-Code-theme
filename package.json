@@ -1,0 +1,21 @@
+{
+    "name": "Her",
+    "displayName": "Her.",
+    "description": "A simple, colorful theme made with lots of love <3",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Her.",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Her.-color-theme.json"
+            }
+        ]
+    }
+}
