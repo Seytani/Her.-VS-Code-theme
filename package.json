@@ -3,6 +3,21 @@
     "displayName": "Her.",
     "description": "A simple, colorful theme made with lots of love <3",
     "version": "0.0.1",
+    "publisher": "PixelsInTheSky",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Seytani/Her.-VS-Code-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Girly",
+        "Night Theme",
+        "Colorful",
+        "Pink",
+        "Rainbow",
+        "Cute"
+    ],
     "engines": {
         "vscode": "^1.54.0"
     },
